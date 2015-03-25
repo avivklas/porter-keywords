@@ -1,4 +1,4 @@
-# artixtract [![Build Status](https://travis-ci.org/avivklas/porter-keywords.svg?branch=master)](https://travis-ci.org/avivklas/porter-keywords)
+# porter-keywords [![Build Status](https://travis-ci.org/avivklas/porter-keywords.svg?branch=master)](https://travis-ci.org/avivklas/porter-keywords)
 
 Extracts (n) most frequent stemmed keywords of a given text.
 
